@@ -1,0 +1,79 @@
+@import url("products-header.css");
+@import url("products-footer.css");
+
+.banner{
+	width:100%;
+}
+.banner img{
+	width:100%;
+	display: block;
+}
+.banner .bk{
+	height:30px;
+	width:100%;
+	background-color: #606060;
+	
+}
+.banner .bk p{
+	color: white;
+	text-align: center;
+	line-height: 30px;
+	font-size: 16px;
+}
+.messages{
+	width:1002px;
+	margin: 0 auto;
+	/*background-color: burlywood;*/
+	/*height:100px;*/
+	
+	padding: 15px 0;
+}
+.messages p{
+	font-size: 12px;
+	color: #aaaaaa;
+	padding: 10px;
+	/*display: inline-block;*/
+}.messages .span{
+	border-bottom: 1px solid #aaaaaa;
+}
+.messages .p{
+	color:black;
+}
+.messages button{
+	padding: 5px 20px;
+	color: white;
+	background-color: #999999;
+	border: none;
+	cursor: pointer;
+	outline: none;
+	border-radius: 5px;
+	float: right;
+	margin-right: 20px;
+	margin-top: -70px;
+}
+.picture{
+	width:100%;
+}
+.picture div{
+	width:1002px;
+	margin: 0 auto;
+}
+.picture div img{
+	width:100%;
+}
+.btns{
+	text-align: center;
+	margin: 0 auto;
+	padding: 30px 0;
+}
+.btns button{
+	display: inline-block;
+	padding: 3px 10px;
+	border: none;
+	font-size: 12px;
+	color: white;
+	cursor: pointer;
+	line-height: 20px;
+	border: 1px solid black;
+	margin-right: 50px;
+}

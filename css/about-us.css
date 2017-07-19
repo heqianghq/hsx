@@ -1,0 +1,105 @@
+@import url("products-header.css");
+@import url("products-footer.css");
+
+/*banner*/
+.banner{
+	width:100%;
+}
+.banner img{
+	width:100%;
+	display: block;
+}
+.banner .bk{
+	height:30px;
+	width:100%;
+	background-color: #606060;
+	
+}
+.lei{
+	width:100%;
+}
+.lei div{
+	width:1002px;
+	margin: 0 auto;
+	border-bottom: 1px solid #aaaaaa;
+}
+.lei div p{
+	font-size: 12px;
+	color: #aaaaaa;
+	padding: 10px;
+}
+.detail h4{
+	font-size:14px ;
+	text-align:center;
+	color: #606060;
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+.detail p{
+	font-size:12px ;
+	text-align:center;
+	color: #606060;
+	padding-bottom: 30px;
+}
+.phone{
+	list-style: none;
+	width:1002px;
+	margin: 0 auto;
+}
+.phone li{
+	width:197px;
+	height:402px;
+	float: left;
+	padding: 26px;
+	margin-bottom: 50px;
+}
+.phone img{
+	width:100%;
+}
+.phone li p{
+	font-size: 12px;
+	text-align: center;
+	padding-top: 10px;
+	margin-bottom: 30px;
+}
+.inter{
+	width:100%;
+	background-color: #0188cc;
+}
+.inter div{
+	width:1002px;
+	margin: 0 auto;
+	/*height: 300px;*/
+}
+.inter div .img{
+	height:91px;
+	width:112px;
+	margin: 0 auto;
+}
+.inter div .img img{
+	width:100%;
+}
+.inter div p{
+	font-size: 16px;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 30px;
+}
+.work{
+	width: 1002px;
+	margin: 0 auto;
+}
+.work h3{
+	font-size: 16px;
+	color: #606060;
+	text-align: center;
+	padding: 30px 0;
+}
+.work .pic{
+	width:1002px;
+	margin: 50px auto;
+}
+.work .pic img{
+	width: 100%;
+}

@@ -1,0 +1,79 @@
+@import url("products-header.css");
+@import url("products-footer.css");
+
+/*banner*/
+.banner{
+	width:100%;
+}
+.banner img{
+	width:100%;
+	display: block;
+}
+.banner .bk{
+	height:30px;
+	width:100%;
+	background-color: #606060;
+	
+}
+.choose{
+	width:1002px;
+	margin: 0 auto;
+}
+.choose .ul{
+	list-style: none;
+	width:570px;
+	margin: 0 auto;
+	padding: 40px 0;
+}
+.choose .ul li{
+	text-align: center;
+	width:25%;
+	float: left;
+	padding: 5px 0px;
+	color: #0088CB;
+	font-size: 16px;
+}
+.choose .ul li:hover{
+	background-color:#0088CB ;
+	color: white;
+	cursor: pointer;
+}
+
+
+.choose .pic{
+	width:1022;
+	list-style: none;
+	margin-left: -20px;
+}
+.choose .pic li{
+	width:33.3333%;
+	float: left;
+	padding: 20px 0;
+}
+.choose .pic li div{
+	padding-left: 20px;
+}
+.choose .pic li div img{
+	width:100%;
+}
+.choose .pic li p{
+	font-size: 12px;
+	text-align: center;
+	color:#606060;
+}
+
+.choose .btn{
+	text-align: center;
+	margin: 0 auto;
+	padding: 20px 0;
+}
+.choose .btn button{
+	display: inline-block;
+	background-color: #20a4d3;
+	padding: 2px 7px;
+	border: none;
+	font-size: 12px;
+	color: white;
+	cursor: pointer;
+	line-height: 20px;
+}

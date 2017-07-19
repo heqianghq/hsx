@@ -1,0 +1,48 @@
+.footer{
+	width:100%;
+	background-color:#262626;
+}
+.message{
+	width:1002px;
+	margin:0 auto;
+	/*background-color: blanchedalmond;*/
+	/*height:300px;*/
+}
+.message .info{
+	width:25%;
+	padding:50px 0;
+	float: left;
+}
+.message a{
+	text-decoration: none;
+}
+.message a:hover p{
+	color:white;
+}
+.message a:hover span{
+	color:white;
+}
+.info span{
+	font-size:14px ;
+	color: white;
+}
+.info p{
+	font-size:12px ;
+	color:#b9b9b9;
+	padding: 3px;
+}
+.keji{
+	/*float:left;*/
+	padding-top:50px;
+	text-align: center;
+	font-size:12px ;
+}
+.keji span{
+	padding-bottom: 5px;
+	border-bottom: 1px solid #b9b9b9;;
+	color:#b9b9b9;
+}
+.keji p{
+	padding-top: 10px;
+	color:#b9b9b9;
+}

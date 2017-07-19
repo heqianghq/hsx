@@ -1,0 +1,216 @@
+@import url("products-header.css");
+@import url("products-footer.css");
+
+/*banner*/
+.banner{
+	width:100%;
+}
+.banner img{
+	width:100%;
+	display: block;
+}
+.banner .bk{
+	height:30px;
+	width:100%;
+	background-color: #606060;
+	
+}
+.lei{
+	width:100%;
+}
+.lei div{
+	width:1002px;
+	margin: 0 auto;
+	border-bottom: 1px solid #aaaaaa;
+}
+.lei div p{
+	font-size: 12px;
+	color: #aaaaaa;
+	padding: 10px;
+}
+
+
+
+.jobs{
+	width:1002px;
+	margin:20px auto;
+}
+
+.jobs .ui{
+	height: 301px;
+	
+}
+.jobs .ui .imgs{
+	height: 301px;
+	width: 368px;
+	float:left;
+}
+.jobs .ui .imgs img{
+	width:100%;
+}
+.jobs .ui .title{
+	width: 600px;
+	float:left;
+	padding-top: 115px;
+	padding-left: 20px;
+}
+.jobs .ui .title h6{
+	font-size: 19px;
+	
+}
+.jobs .ui .title p{
+	font-size: 14px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.jobs .ui .title button{
+	padding: 3px 25px;
+	background-color:#cb2f3c;
+	color:white;
+	border: none;
+	
+}
+.web{
+	height: 301px;
+}
+.jobs .web .title{
+	width: 600px;
+	float:left;
+	padding-top: 115px;
+	padding-left: 20px;
+}
+.jobs .web .title h6{
+	font-size: 19px;
+	
+}
+.jobs .web .title p{
+	font-size: 14px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.jobs .web .title button{
+	padding: 3px 25px;
+	background-color:#0071bd;
+	color:white;
+	border: none;
+	
+}
+.jobs .web .imgs{
+	height: 301px;
+	width: 368px;
+	float:left;
+}
+.jobs .web .imgs img{
+	width:100%;
+}
+
+
+
+.jobs .php{
+	height: 301px;
+	
+}
+.jobs .php .imgs{
+	height: 301px;
+	width: 368px;
+	float:left;
+}
+.jobs .php .imgs img{
+	width:100%;
+}
+.jobs .php .title{
+	width: 600px;
+	float:left;
+	padding-top: 115px;
+	padding-left: 20px;
+}
+.jobs .php .title h6{
+	font-size: 19px;
+	
+}
+.jobs .php .title p{
+	font-size: 14px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.jobs .php .title button{
+	padding: 3px 25px;
+	background-color:#7b7b02;
+	color:white;
+	border: none;
+	
+}
+
+
+
+.font{
+	height: 301px;
+}
+.jobs .font .title{
+	width: 600px;
+	float:left;
+	padding-top: 115px;
+	padding-left: 20px;
+}
+.jobs .font .title h6{
+	font-size: 19px;
+	
+}
+.jobs .font .title p{
+	font-size: 14px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.jobs .font .title button{
+	padding: 3px 25px;
+	background-color:#860503;
+	color:white;
+	border: none;
+	
+}
+.jobs .font .imgs{
+	height: 301px;
+	width: 368px;
+	float:left;
+}
+.jobs .font .imgs img{
+	width:100%;
+}
+
+
+
+
+.jobs .pro{
+	height: 301px;
+	
+}
+.jobs .pro .imgs{
+	height: 301px;
+	width: 368px;
+	float:left;
+}
+.jobs .pro .imgs img{
+	width:100%;
+}
+.jobs .pro .title{
+	width: 600px;
+	float:left;
+	padding-top: 115px;
+	padding-left: 20px;
+}
+.jobs .pro .title h6{
+	font-size: 19px;
+	
+}
+.jobs .pro .title p{
+	font-size: 14px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.jobs .pro .title button{
+	padding: 3px 25px;
+	background-color:#27242c;
+	color:white;
+	border: none;
+	
+}
